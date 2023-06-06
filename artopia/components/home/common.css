@@ -1,0 +1,14 @@
+body {
+  --purple-accent: #A259FF;
+  --pink-accent: #FE3796;
+  --dark-accent: #121212;
+  font-family: Barlow;
+  font-weight: 400;
+  font-size: 24px;
+  color: #ffff;
+}
+
+a {
+  color: #ffff;
+  text-decoration: none;
+}
